@@ -1,0 +1,22 @@
+# Input directory
+/data/Continuum/ManchesterNKCells/CS006/CS006/
+# Output directory
+/data/Continuum/ManchesterNKCells/CS006/CS006_Results2/
+# Write BAM (yes to write bam no to not write bam)
+no
+#Adaptor file (leave line below blank if no adpators file)
+/adaptors.fa
+# Extension
+_001.fastq.gz
+# Samples
+/CR1_S13_R
+/CR2_S14_R
+/CR3_S15_R
+/CR4_S16_R
+/CR5_S17_R
+/CR6_S18_R
+/CR7_S19_R
+/CR8_S20_R
+/CR9_S21_R
+/CR10_S22_R
+/CR11_S23_R
