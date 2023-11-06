@@ -1,0 +1,22 @@
+# Input directory
+/data/RNASeqAnalysis/Experiments/CEAT_1/X204SC20082984-Z01-F001/raw_data/
+# Output directory
+/data/RNASeqAnalysis/Experiments/CEAT_1/Results
+# Write BAM (yes to write bam no to not write bam)
+no
+#Adaptor file (leave line below blank if no adpators file)
+
+# Extension
+.fq.gz
+# Samples
+/A_41/A_41_
+/A_242/A_242_
+/B_41/B_41_
+/B42/B_42_
+/B_241/B_241_
+/B_242/B_242_
+/DMSO_41/DMSO_41_
+/DMSO_42/DMSO_42_
+/DMSO_241/DMSO_241_
+/DMSO_242/DMSO_242_
+
