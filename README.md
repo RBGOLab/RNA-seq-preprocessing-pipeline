@@ -7,4 +7,4 @@ The pipeline consists of a bash script which takes in an specially formatted inp
 3. Remove low quality bases using [Sickle](https://github.com/najoshi/sickle)
 4. Align fastq files to the genome using [STAR](https://github.com/alexdobin/STAR)
 5. Generate a FASTQC report for the formatted files 
-6. Generate a [MULTIQC](https://github.com/ewels/MultiQC) report for formatedd fastq files 
+6. Generate a [MULTIQC](https://github.com/ewels/MultiQC) report for formated fastq files 
